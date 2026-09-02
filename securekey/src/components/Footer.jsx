@@ -66,17 +66,17 @@ const Footer = () => {
                     <div>
                         <h3 className="text-white font-bold text-lg mb-6">{t('footer.contactUs')}</h3>
                         <ul className="space-y-4 text-sm">
-                            <li className="flex items-start gap-3">
+                            {/* <li className="flex items-start gap-3">
                                 <MapPin className="w-5 h-5 text-[#0ea5e9] mt-0.5" />
-                                <span>គម្រោងសហគមន៍ផរទំនើប អុឹម សុី ក (MC Park) ផះេលខ 631<br />ន់ទី 1 យូនីត B22 បនប់េលខ 2, មវិថីពះមុនីេរ៉ត ផូវ 217,<br />Damnak Thum, Stueng Mean chey 2, Mean Chey, Phnom Penh, Cambodia</span>
-                            </li>
+                                <span>គម្រោងសហគមន៍ផរទំនើប(MC Park) ផះេលខ 631<br />ន់ទី 1 យូនីត B22 បនប់េលខ 2, មវិថីពះមុនីេរ៉ត ផូវ 217,<br />Damnak Thum, Stueng Mean chey 2, Mean Chey, Phnom Penh, Cambodia</span>
+                            </li> */}
                             <li className="flex items-center gap-3">
                                 <Phone className="w-5 h-5 text-[#0ea5e9]" />
-                                <span>+855 61 263 333</span>
+                                <span>+855 31 829 599</span>
                             </li>
                             <li className="flex items-center gap-3">
                                 <Mail className="w-5 h-5 text-[#0ea5e9]" />
-                                <span>pisethtouchstar@gmail.com</span>
+                                <span>sothyrum98@gmail.com</span>
                             </li>
                         </ul>
                     </div>
