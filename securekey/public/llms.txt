@@ -1,0 +1,9 @@
+## Pages
+- [FAQ - SecureKey Software Licenses](/faq): Frequently Asked Questions about our software licenses, delivery, and support.
+- [Payment Successful - SecureKey](/success): Your order has been confirmed successfully
+- [Privacy Policy - SecureKey](/privacypolicy): Read our Privacy Policy to understand how we collect, use, and protect your personal information.
+- [Returns & Refunds - SecureKey](/returns): Our Returns and Refund Policy for digital software licenses.
+- [SecureKey - Home | Genuine Software Licenses](/home): Welcome to SecureKey. Your trusted source for genuine Windows, Office, and Antivirus keys with instant delivery.
+- [Security Validation | SecureKey](/securitycheck): No description available
+- [Shipping & Delivery - SecureKey](/shipping): Information about our digital delivery process and shipping policies.
+- [Terms of Service - SecureKey](/terms): Terms of Service and conditions for using SecureKey services.
