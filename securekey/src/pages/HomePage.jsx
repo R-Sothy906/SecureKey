@@ -22,8 +22,6 @@
 
 // export default HomePage;
 
-
-
 import React, { useEffect } from 'react';
 import { Helmet } from 'react-helmet';
 import HeroSection from '@/components/HeroSection';
@@ -42,11 +40,11 @@ function HomePage() {
     script2.async = true;
     document.head.appendChild(script2);
 
-    // Cleanup: Remove scripts when component unmounts
-    return () => {
-      document.head.removeChild(script1);
-      document.head.removeChild(script2);
-    };
+    // ❌ លុប Cleanup នេះចេញ
+    // return () => {
+    //   document.head.removeChild(script1);
+    //   document.head.removeChild(script2);
+    // };
   }, []);
 
   return (
